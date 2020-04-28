@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GiFar",
+  "name": "List of all my github projects",
   "icons": [
     {
       "src": "favicon.ico",
